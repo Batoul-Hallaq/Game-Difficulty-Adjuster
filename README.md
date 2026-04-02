@@ -1,2 +1,2 @@
 # Game-Difficulty-Adjuster
-A university project to dynamically adjust game difficulty using machine learning techniques.
+Machine Learning Course Project: Dynamically Adjusting Puzzle Game Difficulty
